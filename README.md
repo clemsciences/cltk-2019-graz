@@ -1,4 +1,4 @@
-# Presentation of CLTK and a workshop at Graz in November 2019
+# CLTK presentation and workshop at Graz university in November 2019
 
 ## Presentation 
 - [Source code of slides](https://github.com/clemsciences/comparison_sigurdr_siegfried/tree/master/presentation)
