@@ -19,9 +19,7 @@
 ### [Notebooks on *Nibelungenlied* and *Völsunga saga*](https://github.com/clemsciences/comparison_sigurdr_siegfried)
  
 #### Nibelungenlied
-- [Retrieving Complete text](https://github.com/clemsciences/comparison_sigurdr_siegfried/blob/master/sigurd/nib_augsburg/nibelungen-extraction.ipynb)
-- [Retrieving incomplete but annotated texts]()
-- [Reading the complete texts]()
+- [Retrieving complete text](https://github.com/clemsciences/comparison_sigurdr_siegfried/blob/master/sigurd/nib_augsburg/nibelungen-extraction.ipynb)
 - [Reading the annotated texts](https://github.com/clemsciences/comparison_sigurdr_siegfried/blob/master/sigurd/nib_marburg/nibelungenlied-m321-g1.ipynb)
 - [How to train a lemmatizer, a POS (parts-of-speech) tagger with an annotated corpus](https://github.com/cltk/middle_high_german_models_cltk)
  
