@@ -50,5 +50,5 @@ in READMEs (if there is one) or you launch it yourself with [mybinder.org](https
 - What can CLTK do? It's [here](http://docs.cltk.org/en/latest/index.html).
 
  
-By [Clément Besnier](www.clementbesnier.fr) and Eleftheria Chatziagyriou
+By [Clément Besnier](https://www.clementbesnier.fr) and Eleftheria Chatziagyriou
  
