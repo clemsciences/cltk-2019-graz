@@ -24,7 +24,7 @@
 - [How to train a lemmatizer, a POS (parts-of-speech) tagger with an annotated corpus](https://github.com/cltk/middle_high_german_models_cltk)
  
 #### Völsunga saga
-- Making [an approximately TEI compliant text]((https://github.com/clemsciences/old_norse_corpus/blob/master/norsecorpus/data/heimskringla/V%C3%B6lsunga_saga/tei/volsunga.xml)) from a [website](https://github.com/clemsciences/old_norse_corpus/tree/master/norsecorpus/data/heimskringla/V%C3%B6lsunga_saga/txt) with [heimskringla.no](https://heimskringla.no/wiki/Forside)
+- Making [an approximately TEI compliant text](https://github.com/clemsciences/old_norse_corpus/blob/master/norsecorpus/data/heimskringla/V%C3%B6lsunga_saga/tei/volsunga.xml) from a [website](https://github.com/clemsciences/old_norse_corpus/tree/master/norsecorpus/data/heimskringla/V%C3%B6lsunga_saga/txt) with [heimskringla.no](https://heimskringla.no/wiki/Forside)
 - [Retrieving Völsunga saga from a Python package](https://github.com/clemsciences/old_norse_corpus)
 
 #### Comparison
